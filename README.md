@@ -37,3 +37,5 @@
     <a href="https://pt-br.facebook.com/andrei.ferrari.731" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 
 </div>
+
+![Snake animation](https://github.com/oFerrari/oFerrari/blob/output/github-contribution-grid-snake.svg)
