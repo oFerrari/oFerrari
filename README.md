@@ -1,12 +1,18 @@
-### <a href="https://github.com/oFerrari">:octocat:</a> Bem Vindo ao meu GitHub 👋
+###
+<a href="https://github.com/oFerrari">:octocat:</a> Bem Vindo ao meu GitHub 👋 
 
-- 📩 andrei.domingos@estudante.ifms.edu.br
+- 📩 andrei.domingos@estudante.ifms.edu.br                                              
 - 📚 Analise e Desenvolvimento de Sistemas 4/6
-- 💻 Aprimorando nas seguintes Tecnologias:
+- 💻 Aprimorando nas seguintes Tecnologias:                     
 
   ☕ JAVA, Spring, HTML, CSS, JavaScript, TypeScript, React
 - 💬 Buscando Emprego e Conhecimento na Área.
-
+  
+## 
+📈 Meta:
+<br />
+<br />
+<img width="76%"  height="350" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
 ##
 
@@ -40,3 +46,11 @@
 </div>
 
 ![Snake animation](https://github.com/oFerrari/oFerrari/blob/output/github-contribution-grid-snake.svg)
+
+<br />
+<br />
+<div align="center">  
+<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
+    </div>
+
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
