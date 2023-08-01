@@ -2,7 +2,7 @@
 <a href="https://github.com/oFerrari">:octocat:</a> Bem Vindo ao meu GitHub 👋 
 
 - 📩 andrei.domingos@estudante.ifms.edu.br                                              
-- 📚 Analise e Desenvolvimento de Sistemas 4/6
+- 📚 Analise e Desenvolvimento de Sistemas 5/6
 - 💻 Aprimorando nas seguintes Tecnologias:                     
 
   ☕ JAVA, Spring, HTML, CSS, JavaScript, TypeScript, React
