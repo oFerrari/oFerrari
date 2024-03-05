@@ -2,19 +2,13 @@
 <a href="https://github.com/oFerrari">:octocat:</a> Bem Vindo ao meu GitHub 👋 
 
 - 📩 andrei.domingos@estudante.ifms.edu.br                                              
-- 📚 Analise e Desenvolvimento de Sistemas 5/6
+- 📚 Analise e Desenvolvimento de Sistemas 6/6
 - 💻 Aprimorando nas seguintes Tecnologias:                     
 
-  ☕ JAVA, Spring, HTML, CSS, JavaScript, TypeScript, React
+  ☕ JAVA, Spring, HTML, CSS, JavaScript, TypeScript, React, Angular
 - 💬 Buscando Emprego e Conhecimento na Área.
   
 ## 
-📈 Meta:
-<br />
-<br />
-<img width="76%"  height="350" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
-
-##
 
 <div>
 <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=oFerrari&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
