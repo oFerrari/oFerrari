@@ -4,9 +4,9 @@
 - 📩 andrei.ferrari11@gmail.com                                             
 - 🎓 Analise e Desenvolvimento de Sistemas
 - 💻 Conhecimentos Básicos:                     
-- ☕ JAVA, Spring, HTML, CSS, JavaScript, TypeScript, React, Angular
+- ☕ Banco de Dados Relacionais, Java, Spring, HTML, CSS, JavaScript, TypeScript, React, Angular
 - 💼 Trabalhando atualmente com as Seguintes Tecnologias:
-- 🧑‍💻 Banco de Dados Oracle, Oracle APEX, Oracle E-Business Suite, React
+- 🧑‍💻 Banco de Dados Oracle, Oracle APEX, Oracle E-Business Suite, React, Squidex
 
 - 💬 Buscando Conhecimento e Oportunidades na Área.
   
