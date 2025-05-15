@@ -44,7 +44,7 @@
 
 </div>
 
-![Snake animation](https://github.com/oFerrari/oFerrari/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/oFerrari/oFerrari/blob/output/github-contribution-grid-snake.gif)
 
 <br />
 <br />
