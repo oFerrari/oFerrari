@@ -22,6 +22,9 @@
 
 <div>
     <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" />
+  <img height="30" width="40" src="https://img.icons8.com/color/48/000000/oracle-logo.png" />
+
+    <img height="30" width="40" src="https://seeklogo.com/images/O/oracle-logo-F073F8F6A6-seeklogo.com.png" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
