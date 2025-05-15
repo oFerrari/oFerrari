@@ -8,7 +8,7 @@
 - 💼 Trabalhando atualmente com as Seguintes Tecnologias:
 - 🧑‍💻 Banco de Dados Oracle, Oracle APEX, Oracle E-Business Suite, React
 
-- 💬 Buscando Emprego e Conhecimento na Área.
+- 💬 Buscando Conhecimento e Oportunidades na Área.
   
 ## 
 
