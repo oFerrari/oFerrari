@@ -1,11 +1,13 @@
 ###
 <a href="https://github.com/oFerrari">:octocat:</a> Bem Vindo ao meu GitHub 👋 
 
-- 📩 andrei.domingos@estudante.ifms.edu.br                                              
-- 📚 Analise e Desenvolvimento de Sistemas
-- 💻 Aprimorando nas seguintes Tecnologias:                     
+- 📩 andrei.ferrari11@gmail.com                                             
+- 🎓 Analise e Desenvolvimento de Sistemas
+- 💻 Conhecimentos Básicos:                     
+- ☕ JAVA, Spring, HTML, CSS, JavaScript, TypeScript, React, Angular
+- 💼 Trabalhando atualmente com as Seguintes Tecnologias:
+- 🧑‍💻 Banco de Dados Oracle, Oracle APEX, Oracle E-Business Suite, React
 
-  ☕ JAVA, Spring, HTML, CSS, JavaScript, TypeScript, React, Angular
 - 💬 Buscando Emprego e Conhecimento na Área.
   
 ## 
