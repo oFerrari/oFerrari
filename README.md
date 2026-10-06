@@ -1,54 +1,39 @@
-###
-<a href="https://github.com/oFerrari">:octocat:</a> Bem Vindo ao meu GitHub 👋 
+# 👋 Olá, eu sou Andrei Ferrari
 
-- 📩 andrei.ferrari11@gmail.com                                             
-- 🎓 Analise e Desenvolvimento de Sistemas
-- 💻 Conhecimentos Básicos:                     
-- ☕ Banco de Dados Relacionais, React, Java, Spring, HTML, CSS, JavaScript, TypeScript, Angular
-- 💼 Trabalhando atualmente com as Seguintes Tecnologias:
-- 🧑‍💻 Banco de Dados Oracle, Oracle APEX, Oracle E-Business Suite, React, Squidex
+Sou **Desenvolvedor de Software** com experiência em sistemas corporativos, desenvolvimento web e banco de dados. Atualmente atuo com sustentação, evolução e construção de soluções voltadas às necessidades do negócio.
 
-- 💬 Buscando Conhecimento e Oportunidades na Área.
-  
-## 
+## 💻 Stack principal
 
-<div>
-<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=oFerrari&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oFerrari&layout=compact&&langs_count=16&theme=radical"/>
-</div>
+- **Front-end:** React, TypeScript, JavaScript, HTML e CSS
+- **Back-end:** Nest.js, Java e Spring
+- **Banco de dados:** Oracle SQL e PL/SQL
+- **DevOps / Versionamento:** Git, GitLab, GitHub, CI/CD e Docker
+- **Sistemas corporativos:** Oracle E-Business Suite
+- **Outras tecnologias:** Next.js, Python e APIs REST
 
+## 🚀 Projeto em destaque
 
-<br />
+### [Tutor Concursos](https://github.com/oFerrari/tutor-concursos)
+Plataforma de estudos para concursos públicos com arquitetura em monorepo, frontend em **Next.js**, backend em **Python/FastAPI**, banco **PostgreSQL + pgvector**, RAG sobre legislação, banco de questões, repetição espaçada e simulados.
 
-<div>
-    <img height="30" width="40" src="https://www.svgrepo.com/show/448245/oracle.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
-</div>
+## 🧩 Experiência
 
+No dia a dia trabalho com análise e resolução de problemas, manutenção e evolução de sistemas corporativos, desenvolvimento de aplicações web, consultas e rotinas em banco de dados, documentação técnica, versionamento de código e melhoria contínua de processos.
 
-##
+Tenho interesse especial em desenvolvimento **Full Stack**, integrações, automação e construção de soluções escaláveis.
 
-<div>
-    <a href="https://github.com/oFerrari" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://www.linkedin.com/in/andrei-ferrari-domingos-9b6133254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:andrei.ferrari11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/o__ferrarii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://pt-br.facebook.com/andrei.ferrari.731" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-</div>
-<br />
+## 📚 Formação
 
-![Snake animation](https://github.com/oFerrari/oFerrari/blob/output/github-contribution-grid-snake.gif)
-<br />
-<br />
-<div align="center">  
-<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
-</div>
+- **Análise e Desenvolvimento de Sistemas**
+- **Pós-graduação em Banco de Dados, Inteligência Artificial e Perícia Forense Computacional**
+- **Técnico em Informática para Internet**
 
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-ferrari-domingos-9b6133254/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oFerrari)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei.ferrari11@gmail.com)
+
+---
+
+> Perfil em evolução contínua. Aqui concentro projetos, estudos e soluções que representam minha trajetória como desenvolvedor.
