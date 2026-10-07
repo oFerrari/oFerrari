@@ -6,9 +6,9 @@
 
 Construindo soluções web, integrações e sistemas corporativos com foco em qualidade, manutenção e evolução contínua.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/andrei-ferrari-domingos-9b6133254/](https://www.linkedin.com/in/andrei-ferrari-3024a8383/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-ferrari-3024a8383/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oFerrari)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei.ferrari11@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=andrei.ferrari11%40gmail.com)
 
 </div>
 
